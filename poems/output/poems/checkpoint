@@ -1,0 +1,6 @@
+model_checkpoint_path: "/media/gxjun/78289D37289CF4FA/py-faster-rcnn/tools/poems/output/poems/poems-43"
+all_model_checkpoint_paths: "/media/gxjun/78289D37289CF4FA/py-faster-rcnn/tools/poems/output/poems/poems-10"
+all_model_checkpoint_paths: "/media/gxjun/78289D37289CF4FA/py-faster-rcnn/tools/poems/output/poems/poems-20"
+all_model_checkpoint_paths: "/media/gxjun/78289D37289CF4FA/py-faster-rcnn/tools/poems/output/poems/poems-30"
+all_model_checkpoint_paths: "/media/gxjun/78289D37289CF4FA/py-faster-rcnn/tools/poems/output/poems/poems-40"
+all_model_checkpoint_paths: "/media/gxjun/78289D37289CF4FA/py-faster-rcnn/tools/poems/output/poems/poems-43"
