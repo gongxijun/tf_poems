@@ -1,10 +1,14 @@
 # tf_poems
-基于字级别的写诗模型，[简单的藏头诗]，填词诗
-基于tf编写的一个写诗模型. 数据来自于唐诗.
-在这个模型中进行了改动：
-https://github.com/Irvinglove/tensorflow_poems
+基于字级别的写诗模型，[简单的藏头诗]，填词诗   
+基于tf编写的一个写诗模型. 数据来自于唐诗.   
+在这个模型中进行了改动：  
+https://github.com/Irvinglove/tensorflow_poems   
 
-运行样列:  
+需要:  
+   tensorflow-gpu  
+   numpy  
+   python2.7  
+运行样列:    
 如果没有GPU,你需要安装cpu版本tensorflow-cpu 将/gpu:0 改成 /cpu:0   
 如果有GPU,可以直接运行train.py文件.   
 
